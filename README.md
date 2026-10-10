@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/app-icon.png" width="120" alt="UniLink app icon">
+  <img src="https://github.com/viktoriyastakhnyak193-creator/UniLink-Desktop/blob/assets/images/app-icon.png?raw=true" width="120" alt="UniLink app icon">
 </p>
 
 <h1 align="center">UniLink</h1>
@@ -26,19 +26,19 @@
 
 Balances across Ethereum, Base, Arbitrum, Polygon and Optimism, with live performance from 1H to 1Y.
 
-<p align="center"><img src="images/portfolio.jpg" alt="UniLink portfolio screen with total balance, performance chart and token list"></p>
+<p align="center"><img src="https://github.com/viktoriyastakhnyak193-creator/UniLink-Desktop/blob/assets/images/portfolio.jpg?raw=true" alt="UniLink portfolio screen with total balance, performance chart and token list"></p>
 
 ## Every transfer, clearly listed
 
 See what you sent and received, with dates, amounts and the full address for each transfer.
 
-<p align="center"><img src="images/activity.jpg" alt="UniLink activity screen listing sent and received transfers by date"></p>
+<p align="center"><img src="https://github.com/viktoriyastakhnyak193-creator/UniLink-Desktop/blob/assets/images/activity.jpg?raw=true" alt="UniLink activity screen listing sent and received transfers by date"></p>
 
 ## Live prices for top tokens
 
 Track price, 1-hour and 1-day changes, volume and charts for the top 50 tokens. Market data by CoinGecko.
 
-<p align="center"><img src="images/markets.jpg" alt="UniLink markets screen with token prices, changes and mini charts"></p>
+<p align="center"><img src="https://github.com/viktoriyastakhnyak193-creator/UniLink-Desktop/blob/assets/images/markets.jpg?raw=true" alt="UniLink markets screen with token prices, changes and mini charts"></p>
 
 ## Features
 
@@ -52,8 +52,8 @@ Track price, 1-hour and 1-day changes, volume and charts for the top 50 tokens. 
 | **Address avatars** | A unique picture per address to help spot look-alike scams. |
 
 <p align="center">
-  <img src="images/tax.png" width="48%" alt="UniLink tax reports screen">
-  <img src="images/settings.png" width="48%" alt="UniLink settings screen">
+  <img src="https://github.com/viktoriyastakhnyak193-creator/UniLink-Desktop/blob/assets/images/tax.png?raw=true" width="48%" alt="UniLink tax reports screen">
+  <img src="https://github.com/viktoriyastakhnyak193-creator/UniLink-Desktop/blob/assets/images/settings.png?raw=true" width="48%" alt="UniLink settings screen">
 </p>
 
 ## How it's built
